@@ -1,0 +1,80 @@
+body{
+    background-color: #232527;
+}
+.container{
+    background-color: #232527;
+}
+.container2{
+    background-color: #393b3d;
+    margin: -10px 469px;
+}
+.H12{
+    font-family: sans-serif;
+    font-weight: 775;
+    padding-top: 20px;
+}
+.sr-only {
+    background-color: rgba(0,0,0,.7);
+    border: solid 2px black;
+    border-radius: 4px;
+    width: 330px;
+    height: 30px;
+    margin-right: 5px;
+    font-size: 15px;
+    color: white;
+}
+.Button{
+    background-color: #393b3d;
+    color:lightgrey;
+    padding: 3px 142px;
+    border: solid 0.5px lightgray;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+
+.Button:hover{
+    color: white;
+    border: solid 0.5px white;
+}
+
+.Param{
+    font-size: 17px;
+    color: white;
+    font-family: sans-serif;
+}
+.Param:hover{
+    text-decoration:underline white;
+}
+
+.Button1{
+    background-color: #393b3d;
+    color:lightgrey;
+    padding: 3px 50px;
+    border: solid 0.5px lightgray;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+
+.Button1:hover{
+    color: white;
+    border: solid 0.5px white;
+}
+.Button2{
+    background-color: #393b3d;
+    color:lightgrey;
+    padding: 3px 85px;
+    border: solid 0.5px lightgray;
+    border-radius: 4px;
+    font-size: 20px;
+    margin-top: 7px;
+    font-family: sans-serif;
+}
+
+.Button2:hover{
+    color: white;
+    border: solid 0.5px white;
+}
